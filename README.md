@@ -3,6 +3,8 @@ Mining Trojan cleaning tools, currently written for China's XMR Trojan
 
 Operation method
 
+Query Trojan - parent process may be deleted by mistake, please first block the rm-rf code, then debug output deleted processes file directory, cross check if it is deleted by mistake, if so, then add it to the anti-delete area before execution. pls do not hesitate to contact me if you have any problem. 
+
 gcc linux.c -o linux
 chmod 777 ./linux
 sudo ./linux
