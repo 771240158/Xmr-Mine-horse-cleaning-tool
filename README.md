@@ -1,4 +1,4 @@
-# Xmr-Mine-horse-cleaning-tool
+# Xmr-Mine-horse-cleaning-tool Thank you Mr. Hu for your information and help in translating
 Mining Trojan cleaning tools, currently written for China's XMR Trojan
 
 Operation method
